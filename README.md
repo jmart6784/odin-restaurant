@@ -1,0 +1,1 @@
+Practice with webpacker and npm, exporting and importing files. Part of the Odin project: https://www.theodinproject.com/courses/javascript/lessons/restaurant-page?ref=lnav
